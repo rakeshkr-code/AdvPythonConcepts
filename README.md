@@ -1,4 +1,7 @@
-# Documenting practicing some advanced Python concepts
+# Some advanced Python concepts
+
+## Notebooks
+All the concepts are explained and recorded as different notebooks. Notebooks sequences and descriptions will be mentioned in the `readme` inside the folder. 
 
 ## Dunder Variables in Python
 
