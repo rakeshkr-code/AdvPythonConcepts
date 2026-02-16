@@ -24,3 +24,6 @@
     - We can achieve abstractions using `function specification`s (inputs and outputs) and `docstring`s
 * **Functions**
     - Reusable pieces or chunks of code
+
+----------------------- new things will be done -------------------------------------------------------
+
